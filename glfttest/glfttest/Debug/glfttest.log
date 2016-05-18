@@ -1,0 +1,166 @@
+﻿  stdafx.cpp
+  OGLFT.cpp
+c:\opengl\include\gl\gl.h(1152): error C2144: 语法错误:“void”的前面应有“;”
+c:\opengl\include\gl\gl.h(1152): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\opengl\include\gl\gl.h(1152): error C2146: 语法错误: 缺少“;”(在标识符“glAccum”的前面)
+c:\opengl\include\gl\gl.h(1152): error C2182: “APIENTRY”: 非法使用“void”类型
+c:\opengl\include\gl\gl.h(1153): error C2144: 语法错误:“void”的前面应有“;”
+c:\opengl\include\gl\gl.h(1153): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\opengl\include\gl\gl.h(1153): error C2086: “int WINGDIAPI”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“WINGDIAPI”的声明
+c:\opengl\include\gl\gl.h(1153): error C2146: 语法错误: 缺少“;”(在标识符“glAlphaFunc”的前面)
+c:\opengl\include\gl\gl.h(1153): error C2182: “APIENTRY”: 非法使用“void”类型
+c:\opengl\include\gl\gl.h(1153): error C2086: “int APIENTRY”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“APIENTRY”的声明
+c:\opengl\include\gl\gl.h(1154): error C2146: 语法错误: 缺少“;”(在标识符“GLboolean”的前面)
+c:\opengl\include\gl\gl.h(1154): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\opengl\include\gl\gl.h(1154): error C2086: “int WINGDIAPI”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“WINGDIAPI”的声明
+c:\opengl\include\gl\gl.h(1154): error C2146: 语法错误: 缺少“;”(在标识符“glAreTexturesResident”的前面)
+c:\opengl\include\gl\gl.h(1154): error C2371: “APIENTRY”: 重定义；不同的基类型
+          c:\opengl\include\gl\gl.h(1152) : 参见“APIENTRY”的声明
+c:\opengl\include\gl\gl.h(1155): error C2144: 语法错误:“void”的前面应有“;”
+c:\opengl\include\gl\gl.h(1155): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\opengl\include\gl\gl.h(1155): error C2086: “int WINGDIAPI”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“WINGDIAPI”的声明
+c:\opengl\include\gl\gl.h(1155): error C2146: 语法错误: 缺少“;”(在标识符“glArrayElement”的前面)
+c:\opengl\include\gl\gl.h(1155): error C2182: “APIENTRY”: 非法使用“void”类型
+c:\opengl\include\gl\gl.h(1155): error C2086: “int APIENTRY”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“APIENTRY”的声明
+c:\opengl\include\gl\gl.h(1156): error C2144: 语法错误:“void”的前面应有“;”
+c:\opengl\include\gl\gl.h(1156): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\opengl\include\gl\gl.h(1156): error C2086: “int WINGDIAPI”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“WINGDIAPI”的声明
+c:\opengl\include\gl\gl.h(1156): error C2146: 语法错误: 缺少“;”(在标识符“glBegin”的前面)
+c:\opengl\include\gl\gl.h(1156): error C2182: “APIENTRY”: 非法使用“void”类型
+c:\opengl\include\gl\gl.h(1156): error C2086: “int APIENTRY”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“APIENTRY”的声明
+c:\opengl\include\gl\gl.h(1157): error C2144: 语法错误:“void”的前面应有“;”
+c:\opengl\include\gl\gl.h(1157): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\opengl\include\gl\gl.h(1157): error C2086: “int WINGDIAPI”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“WINGDIAPI”的声明
+c:\opengl\include\gl\gl.h(1157): error C2146: 语法错误: 缺少“;”(在标识符“glBindTexture”的前面)
+c:\opengl\include\gl\gl.h(1157): error C2182: “APIENTRY”: 非法使用“void”类型
+c:\opengl\include\gl\gl.h(1157): error C2086: “int APIENTRY”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“APIENTRY”的声明
+c:\opengl\include\gl\gl.h(1158): error C2144: 语法错误:“void”的前面应有“;”
+c:\opengl\include\gl\gl.h(1158): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\opengl\include\gl\gl.h(1158): error C2086: “int WINGDIAPI”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“WINGDIAPI”的声明
+c:\opengl\include\gl\gl.h(1158): error C2146: 语法错误: 缺少“;”(在标识符“glBitmap”的前面)
+c:\opengl\include\gl\gl.h(1158): error C2182: “APIENTRY”: 非法使用“void”类型
+c:\opengl\include\gl\gl.h(1158): error C2086: “int APIENTRY”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“APIENTRY”的声明
+c:\opengl\include\gl\gl.h(1159): error C2144: 语法错误:“void”的前面应有“;”
+c:\opengl\include\gl\gl.h(1159): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\opengl\include\gl\gl.h(1159): error C2086: “int WINGDIAPI”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“WINGDIAPI”的声明
+c:\opengl\include\gl\gl.h(1159): error C2146: 语法错误: 缺少“;”(在标识符“glBlendFunc”的前面)
+c:\opengl\include\gl\gl.h(1159): error C2182: “APIENTRY”: 非法使用“void”类型
+c:\opengl\include\gl\gl.h(1159): error C2086: “int APIENTRY”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“APIENTRY”的声明
+c:\opengl\include\gl\gl.h(1160): error C2144: 语法错误:“void”的前面应有“;”
+c:\opengl\include\gl\gl.h(1160): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\opengl\include\gl\gl.h(1160): error C2086: “int WINGDIAPI”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“WINGDIAPI”的声明
+c:\opengl\include\gl\gl.h(1160): error C2146: 语法错误: 缺少“;”(在标识符“glCallList”的前面)
+c:\opengl\include\gl\gl.h(1160): error C2182: “APIENTRY”: 非法使用“void”类型
+c:\opengl\include\gl\gl.h(1160): error C2086: “int APIENTRY”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“APIENTRY”的声明
+c:\opengl\include\gl\gl.h(1161): error C2144: 语法错误:“void”的前面应有“;”
+c:\opengl\include\gl\gl.h(1161): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\opengl\include\gl\gl.h(1161): error C2086: “int WINGDIAPI”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“WINGDIAPI”的声明
+c:\opengl\include\gl\gl.h(1161): error C2146: 语法错误: 缺少“;”(在标识符“glCallLists”的前面)
+c:\opengl\include\gl\gl.h(1161): error C2182: “APIENTRY”: 非法使用“void”类型
+c:\opengl\include\gl\gl.h(1161): error C2086: “int APIENTRY”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“APIENTRY”的声明
+c:\opengl\include\gl\gl.h(1162): error C2144: 语法错误:“void”的前面应有“;”
+c:\opengl\include\gl\gl.h(1162): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\opengl\include\gl\gl.h(1162): error C2086: “int WINGDIAPI”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“WINGDIAPI”的声明
+c:\opengl\include\gl\gl.h(1162): error C2146: 语法错误: 缺少“;”(在标识符“glClear”的前面)
+c:\opengl\include\gl\gl.h(1162): error C2182: “APIENTRY”: 非法使用“void”类型
+c:\opengl\include\gl\gl.h(1162): error C2086: “int APIENTRY”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“APIENTRY”的声明
+c:\opengl\include\gl\gl.h(1163): error C2144: 语法错误:“void”的前面应有“;”
+c:\opengl\include\gl\gl.h(1163): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\opengl\include\gl\gl.h(1163): error C2086: “int WINGDIAPI”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“WINGDIAPI”的声明
+c:\opengl\include\gl\gl.h(1163): error C2146: 语法错误: 缺少“;”(在标识符“glClearAccum”的前面)
+c:\opengl\include\gl\gl.h(1163): error C2182: “APIENTRY”: 非法使用“void”类型
+c:\opengl\include\gl\gl.h(1163): error C2086: “int APIENTRY”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“APIENTRY”的声明
+c:\opengl\include\gl\gl.h(1164): error C2144: 语法错误:“void”的前面应有“;”
+c:\opengl\include\gl\gl.h(1164): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\opengl\include\gl\gl.h(1164): error C2086: “int WINGDIAPI”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“WINGDIAPI”的声明
+c:\opengl\include\gl\gl.h(1164): error C2146: 语法错误: 缺少“;”(在标识符“glClearColor”的前面)
+c:\opengl\include\gl\gl.h(1164): error C2182: “APIENTRY”: 非法使用“void”类型
+c:\opengl\include\gl\gl.h(1164): error C2086: “int APIENTRY”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“APIENTRY”的声明
+c:\opengl\include\gl\gl.h(1165): error C2144: 语法错误:“void”的前面应有“;”
+c:\opengl\include\gl\gl.h(1165): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\opengl\include\gl\gl.h(1165): error C2086: “int WINGDIAPI”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“WINGDIAPI”的声明
+c:\opengl\include\gl\gl.h(1165): error C2146: 语法错误: 缺少“;”(在标识符“glClearDepth”的前面)
+c:\opengl\include\gl\gl.h(1165): error C2182: “APIENTRY”: 非法使用“void”类型
+c:\opengl\include\gl\gl.h(1165): error C2086: “int APIENTRY”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“APIENTRY”的声明
+c:\opengl\include\gl\gl.h(1166): error C2144: 语法错误:“void”的前面应有“;”
+c:\opengl\include\gl\gl.h(1166): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\opengl\include\gl\gl.h(1166): error C2086: “int WINGDIAPI”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“WINGDIAPI”的声明
+c:\opengl\include\gl\gl.h(1166): error C2146: 语法错误: 缺少“;”(在标识符“glClearIndex”的前面)
+c:\opengl\include\gl\gl.h(1166): error C2182: “APIENTRY”: 非法使用“void”类型
+c:\opengl\include\gl\gl.h(1166): error C2086: “int APIENTRY”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“APIENTRY”的声明
+c:\opengl\include\gl\gl.h(1167): error C2144: 语法错误:“void”的前面应有“;”
+c:\opengl\include\gl\gl.h(1167): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\opengl\include\gl\gl.h(1167): error C2086: “int WINGDIAPI”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“WINGDIAPI”的声明
+c:\opengl\include\gl\gl.h(1167): error C2146: 语法错误: 缺少“;”(在标识符“glClearStencil”的前面)
+c:\opengl\include\gl\gl.h(1167): error C2182: “APIENTRY”: 非法使用“void”类型
+c:\opengl\include\gl\gl.h(1167): error C2086: “int APIENTRY”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“APIENTRY”的声明
+c:\opengl\include\gl\gl.h(1168): error C2144: 语法错误:“void”的前面应有“;”
+c:\opengl\include\gl\gl.h(1168): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\opengl\include\gl\gl.h(1168): error C2086: “int WINGDIAPI”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“WINGDIAPI”的声明
+c:\opengl\include\gl\gl.h(1168): error C2146: 语法错误: 缺少“;”(在标识符“glClipPlane”的前面)
+c:\opengl\include\gl\gl.h(1168): error C2182: “APIENTRY”: 非法使用“void”类型
+c:\opengl\include\gl\gl.h(1168): error C2086: “int APIENTRY”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“APIENTRY”的声明
+c:\opengl\include\gl\gl.h(1169): error C2144: 语法错误:“void”的前面应有“;”
+c:\opengl\include\gl\gl.h(1169): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\opengl\include\gl\gl.h(1169): error C2086: “int WINGDIAPI”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“WINGDIAPI”的声明
+c:\opengl\include\gl\gl.h(1169): error C2146: 语法错误: 缺少“;”(在标识符“glColor3b”的前面)
+c:\opengl\include\gl\gl.h(1169): error C2182: “APIENTRY”: 非法使用“void”类型
+c:\opengl\include\gl\gl.h(1169): error C2086: “int APIENTRY”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“APIENTRY”的声明
+c:\opengl\include\gl\gl.h(1170): error C2144: 语法错误:“void”的前面应有“;”
+c:\opengl\include\gl\gl.h(1170): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\opengl\include\gl\gl.h(1170): error C2086: “int WINGDIAPI”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“WINGDIAPI”的声明
+c:\opengl\include\gl\gl.h(1170): error C2146: 语法错误: 缺少“;”(在标识符“glColor3bv”的前面)
+c:\opengl\include\gl\gl.h(1170): error C2182: “APIENTRY”: 非法使用“void”类型
+c:\opengl\include\gl\gl.h(1170): error C2086: “int APIENTRY”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“APIENTRY”的声明
+c:\opengl\include\gl\gl.h(1171): error C2144: 语法错误:“void”的前面应有“;”
+c:\opengl\include\gl\gl.h(1171): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\opengl\include\gl\gl.h(1171): error C2086: “int WINGDIAPI”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“WINGDIAPI”的声明
+c:\opengl\include\gl\gl.h(1171): error C2146: 语法错误: 缺少“;”(在标识符“glColor3d”的前面)
+c:\opengl\include\gl\gl.h(1171): error C2182: “APIENTRY”: 非法使用“void”类型
+c:\opengl\include\gl\gl.h(1171): error C2086: “int APIENTRY”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“APIENTRY”的声明
+c:\opengl\include\gl\gl.h(1172): error C2144: 语法错误:“void”的前面应有“;”
+c:\opengl\include\gl\gl.h(1172): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\opengl\include\gl\gl.h(1172): error C2086: “int WINGDIAPI”: 重定义
+          c:\opengl\include\gl\gl.h(1152) : 参见“WINGDIAPI”的声明
+c:\opengl\include\gl\gl.h(1172): error C2146: 语法错误: 缺少“;”(在标识符“glColor3dv”的前面)
+c:\opengl\include\gl\gl.h(1172): error C2182: “APIENTRY”: 非法使用“void”类型
+c:\opengl\include\gl\gl.h(1172): fatal error C1003: 错误计数超过 100；正在停止编译
+  glfttest.cpp
+  正在生成代码...
